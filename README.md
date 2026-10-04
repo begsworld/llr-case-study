@@ -1,2 +1,2 @@
 # llr-case-study
-Solutions to LRR's case study problem set
+Solutions to LLR's case study problem set
